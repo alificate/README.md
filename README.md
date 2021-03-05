@@ -4,12 +4,12 @@
 
 ![](https://komarev.com/ghpvc/?username=alificate&style=flat-square&color=0db00b)
 
-### 🤖 Моё портфолио:
+### 💼 Моё портфолио:
 
 ### 👾 Technical Administrator of Capture Info
 ### 👾 Administration Forum (*Secret*) RP 
 
-### 💼 На данный момент знаю вот эти языки программирования (утилиты):
+### 🤖 На данный момент знаю вот эти языки программирования:
 
 ![JavaScript](https://img.shields.io/badge/-Java%20Script-424242?style=for-the-badge&logo=javascript&logoColor=E9D54D)
 ![Node.JS](https://img.shields.io/badge/-Node%20JS-424242?style=for-the-badge&logo=node.js&logoColor=1ef742)
