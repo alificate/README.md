@@ -1,6 +1,6 @@
 ## Всем общий саламчик, меня зовут Санёчек, я являюсь разработчиком Форумов и Дискорд-Ботов
 
-### Глазки которые посетили мой профиль
+### Number of visitors to my profile
 
 ![](https://komarev.com/ghpvc/?username=alificate&style=flat-square&color=0db00b)
 
