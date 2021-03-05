@@ -6,8 +6,8 @@
 
 ### 🤖 Моё портфолио:
 
-### Capture-Info Project for Arizona RP
-### Administration Forum (*Secret*) RP 
+### 👾 Technical Administrator of Capture Info
+### 👾 Administration Forum (*Secret*) RP 
 
 ### 💼 На данный момент знаю вот эти языки программирования (утилиты):
 
