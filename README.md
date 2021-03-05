@@ -1,4 +1,4 @@
-## Hello everyone, my name is Alejandro, I am a developer of Discord bots on the Discord Js platform, I am also a developer of forums on the XenForo platform
+## Hello everyone, my name is Alejandro, I am a developer of Discord bots on the Node Js platform, I am also a developer of forums on the XenForo platform
 
 ### Number of visitors to my profile
 
