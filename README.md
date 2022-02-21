@@ -18,4 +18,4 @@
 
 ### 📝 Link to contact me:
 
-[![Vkontakte](https://img.shields.io/badge/-VKONTAKTE-424242?style=for-the-badge&logo=vk&logoColor=3b96ff)](https://vk.com/krolxrage)
+[![Vkontakte](https://img.shields.io/badge/-VKONTAKTE-424242?style=for-the-badge&logo=vk&logoColor=3b96ff)](https://vk.com/awsmkrol9)
